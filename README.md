@@ -10,9 +10,3 @@ iOS Application Task built with **SwiftUI**.
   - Terms & Conditions screen
   - 
 - **AppCoordinator** handles navigation between screens
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ayamashalyy/FinancialHoldingTask.git
