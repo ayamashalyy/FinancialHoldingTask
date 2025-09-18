@@ -17,19 +17,19 @@ struct MoreScreen: View {
                     coordinator.push(.termsAndConditions)
                 }
                 Button("Privacy Policy") {
-                    print("Privacy Policy")
+                    coordinator.push(.privacyPolicy)
                 }
             }
             
             Section {
                 Button("About") {
-                    print("About")
+                    coordinator.push(.about)
                 }
                 Button("Contact Us") {
-                    print("Contact Us")
+                    coordinator.push(.contactUs)
                 }
             }
-        } 
+        }
     }
 }
 

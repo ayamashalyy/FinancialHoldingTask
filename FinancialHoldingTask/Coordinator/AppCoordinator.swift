@@ -33,6 +33,12 @@ class AppCoordinator: AppCoordinatorProtocol {
             MoreScreen()
         case .termsAndConditions:
             TermsAndConditionsScreen()
+        case .privacyPolicy:
+            PrivacyPolicyScreen()
+        case .about:
+            AboutScreen()
+        case .contactUs:
+            ContactUsScreen()
         }
     }
 }

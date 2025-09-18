@@ -16,7 +16,7 @@ protocol AppCoordinatorProtocol: ObservableObject {
 }
 
 enum Screen: Hashable {
-    case home, profile, more, termsAndConditions
+    case home, profile, more, termsAndConditions, privacyPolicy, about, contactUs
     
     var id: Self { self }
     
