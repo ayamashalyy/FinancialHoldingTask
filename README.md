@@ -8,5 +8,4 @@ iOS Application Task built with **SwiftUI**.
   - Displays venues in a list with name, address, and category
 - **MoreScreen**:
   - Terms & Conditions screen
-  - 
 - **AppCoordinator** handles navigation between screens
