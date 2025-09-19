@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_SECRET</key>
+	<string>AJR4B5LLRONWAJWJJOACHAFLCWS2YJAZMGQNFFZQP0IB3THR</string>
+	<key>BASE_URL</key>
+	<string>https://api.foursquare.com/v2/venues/search</string>
+	<key>CLIENT_ID</key>
+	<string>4EQRZPSGKBZGFSERGJY055FRW2OSPJRZYR4C3J0JN2CQQFIV</string>
+	<key>API_VERSION</key>
+	<string>20180910</string>
+</dict>
+</plist>
